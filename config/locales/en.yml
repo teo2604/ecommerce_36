@@ -1,3 +1,13 @@
 en:
-  hello: "Hello world"
-  tittle: "Freshproject"
+  shared:
+    error_messages:
+      contains: Having
+      error: error
+  title: Log in
+  users:
+    form:
+      h1_create_account: Create a new account
+    new:
+      button_signup: Sign up
+      home: Home
+      signup: Sign up

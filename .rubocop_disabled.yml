@@ -97,7 +97,7 @@ Style/MissingElse:
     - both
 
 Style/OptionHash:
-  Description: "Don"t use option hashes when you can use keyword arguments."
+  Description: "Don't use option hashes when you can use keyword arguments."
   Enabled: false
 
 Style/Send:
